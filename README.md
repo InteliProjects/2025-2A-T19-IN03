@@ -7,6 +7,7 @@
 
 
 ## 🎯 O objetivo:
+Modelo preditivo para definição do melhor preço de contratação de fretes Inbound para safra e entressafra
 
 ## 💻 Projetos Desenvolvidos: 
 
