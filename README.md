@@ -14,7 +14,7 @@ Modelo preditivo para definição do melhor preço de contratação de fretes In
 - Grupo 1 - 
   - https://github.com/InteliProjects/2025-2A-T19-IN03-G01
 - Grupo 2 - 
-  - https://github.com/InteliProjects/2025-2A-T12-EC07-G02
+  - https://github.com/InteliProjects/2025-2A-T19-IN03-G02
 - Grupo 3 -  
   - https://github.com/InteliProjects/2025-2A-T19-IN03-G03
  - Grupo 4 -
